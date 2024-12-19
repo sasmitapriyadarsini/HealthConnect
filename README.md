@@ -1,4 +1,4 @@
-# IBM HACK CHALLENGE-SPS_PRO_3523-HEALTH CONNECT-Streamlined-Doctors-Appointment-and-Health-Record-Management-HEALTH_HIVE
+
 
 HealthConnect: Streamlined Doctors Appointment and Health Record Management
 
@@ -10,9 +10,6 @@ HealthConnect: Streamlined Doctors Appointment and Health Record Management
 
 - while taking appointment, patients can mention their problem in the appointment. So that, the doctor is aware of patient problem for any further prescription and treatment before patient come to hospital.
 
-### Demo link
-
- (https://yt.oia.bio/project-demo-link-healthConnect)
 
 
 ### Home Page
